@@ -1,10 +1,11 @@
 /*
 
 Edit Notes:
-- Added a way to grab a users ID for a better response.
+- Added a better user grabber for a better response.
 - Responses (twitter and pixiv) now @ the user that sent the message.
 - Bot deletes its own message after 5 seconds.
 - Formatted the file to look nicer.
+- Added a function to +N for simple excution.
 
 */
 
